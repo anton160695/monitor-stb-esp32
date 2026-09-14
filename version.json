@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "firmware": {
+    "esp32_devkit": "https://raw.githubusercontent.com/USERNAME/REPO/main/firmware-esp32-devkit.bin",
+    "esp32_c3": "https://raw.githubusercontent.com/USERNAME/REPO/main/firmware-esp32-c3.bin"
+  },
+  "changelog": "Pembaruan untuk DevKit V1 & C3 Super Mini"
+}
